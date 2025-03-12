@@ -1,0 +1,12 @@
+.nav{margin: auto; width: 100%;background: #212529; margin-top: 0; }
+
+.baslik{width:100%; height: 60px; background:black;}
+
+.baslik img{height:70px; width:180px;}
+
+
+.nav li{color:white;}
+
+@media (max-width:576px)
+{.nav:hover.dropdown-menu{display: block;}}
+
