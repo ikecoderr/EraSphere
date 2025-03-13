@@ -197,6 +197,7 @@ z-index:1 ;
   height:auto; 
   width:100%; ;
   background-color:#384227 ;
+   gap:10px;
   
  
   flex-wrap: wrap;
@@ -206,7 +207,8 @@ z-index:1 ;
   padding-top: 10px;
   display: flex;
   
-  align-items: center;
+  align-items: center;}
+
  .main img{
   
   object-fit: cover;
