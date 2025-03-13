@@ -198,17 +198,15 @@ z-index:1 ;
   width:100%; ;
   background-color:#384227 ;
   
-  display: flex;
-    flex-direction: column; /* Dikey hizalama */
-    align-items: center; /* Kartları ortalar */
-    gap: 10px;
+ 
   flex-wrap: wrap;
   justify-content: center;
   align-content: center;
   margin: 0 auto;
   padding-top: 10px;
+  display: flex;
+  
   align-items: center;
-}
  .main img{
   
   object-fit: cover;
